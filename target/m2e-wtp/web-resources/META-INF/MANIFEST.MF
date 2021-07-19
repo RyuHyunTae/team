@@ -1,10 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
-Built-By: Sehoon
-Build-Jdk: 1.8.0_291
-=======
 Built-By: rbals
 Build-Jdk: 1.8.0_241
->>>>>>> feature/0.1.x/gyumin
 Created-By: Maven Integration for Eclipse
 
