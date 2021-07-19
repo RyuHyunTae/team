@@ -1,10 +1,15 @@
 Manifest-Version: 1.0
 <<<<<<< HEAD
+<<<<<<< HEAD
 Built-By: rbals
 Build-Jdk: 1.8.0_241
 =======
 Built-By: HyunTae
 Build-Jdk: 1.8.0_201
 >>>>>>> feature/0.2.x/RyuHyunTae
+=======
+Built-By: Sehoon
+Build-Jdk: 1.8.0_291
+>>>>>>> feature/0.2.x/sehoon
 Created-By: Maven Integration for Eclipse
 
